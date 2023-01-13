@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "437701271434",
+    "firebase_url": "https://level-water-b7b74-default-rtdb.firebaseio.com",
+    "project_id": "level-water-b7b74",
+    "storage_bucket": "level-water-b7b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437701271434:android:602363aaf332bdf6557273",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437701271434-2j1e900fepsdne5nb6fpqn5oagk9etom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsCBoAW_koj1sP8DRvmdzsVJTg3A__wxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437701271434-2j1e900fepsdne5nb6fpqn5oagk9etom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
